@@ -54,7 +54,7 @@
 						</a>
 
 						<a href="<?php echo site_url('employee/EmployeeInfo'); ?>" class="btn btn-default" style="margin-left: 15px;color:#007bff;text-decoration: underline;">
-							<i class="fa fa-plus"></i>&nbsp; Add Course
+							<i class="fa fa-plus"></i>&nbsp; Add Employees Details
 						</a>
 
 					</div>

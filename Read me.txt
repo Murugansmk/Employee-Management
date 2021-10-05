@@ -5,4 +5,4 @@ How to run this project
 4. Open phpmyadmin (http://localhost/phpmyadmin)
 5. Create a database with name employee_1
 6. Import employee_1.sql file(given inside the zip package in sql file folder)
-7.Run the script http://localhost/employee_management/
+7.Run the script http://localhost/Employee-Management/
